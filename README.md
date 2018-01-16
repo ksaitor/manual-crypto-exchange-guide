@@ -1,4 +1,4 @@
-# How to behave in a manual crypto/fiat exchange.
+# How to behave in a manual (offline) crypto-to-fiat transaction.
 
 > TL;DR
 1. Pick the least volotile cryptocurrency 
