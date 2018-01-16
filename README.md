@@ -1,6 +1,7 @@
 # How to behave in a manual (offline) crypto-to-fiat transaction.
 
 > TL;DR
+1. Find a safe public place (café of coffeehouse).
 1. Pick the least volotile cryptocurrency 
 1. Agree on a price. The price is final. It should not be changed untill the end of the transaction.
 1. Exchange the addresses. Send your contact your **public key** or **bank account details** or **prepare cash**. 
