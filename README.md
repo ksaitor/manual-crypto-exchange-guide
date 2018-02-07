@@ -1,9 +1,10 @@
 # How to behave in a manual (offline) crypto-to-fiat transaction.
 
 > TL;DR
-1. Find a safe public place (café or coffeehouse).
-1. Pick the least volatile cryptocurrency .
+1. Pick the least volatile cryptocurrency.
 1. Agree on a price. The price is final. It should not be changed untill the end of the transaction.
+1. Seller sends public wallet address as proof of holdings. Buyer provides wallet address to send to. If large transaction buyer may need to show proof of funds.
+1. Find a safe public place (café or coffeehouse).
 1. Exchange the addresses. Send your contact your **public key** or **bank account details** or **prepare cash**. 
 1. Double check information that was provided in the previous step, especially the **public key**.
 1. Perform the transaction.
@@ -37,3 +38,10 @@ We'd like to keep this protocol, ethical guide as simple and accessible as possi
 - Avoid over-generalizing. Some readers might only be familiar with Bitcoin, and might not even heard of Ethereum or other cryptocurriences. This guide should still be useful to such public.
 - English might not be the first language of contributors to this document, so be kind.
 - Be kind.
+
+## Credits
+- Raman Shalupau - @ksaitor
+- Alexander Isora - @alexanderisora
+- Andrew Ching - @fayf
+- Azmie Suhaimi - http://collectivexchan.ge
+
